@@ -5,5 +5,6 @@ ngl i don't even know if i'm going to push somethings to here. (i probably will 
 
 /src/server.java<br>
 /src/client.java<br>
-/src/connectedclient.java
+/src/connectedclient.java<br>
+/src/logger.java
 
